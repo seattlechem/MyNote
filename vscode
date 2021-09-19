@@ -1,0 +1,5 @@
+# LF vs CRLF
+	LF: \n
+	CRLF: \r\n
+		settings.json
+			"files.eol": "\n"
